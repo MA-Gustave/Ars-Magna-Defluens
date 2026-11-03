@@ -1,0 +1,4 @@
+# Snapshot-only exclusions.
+# Keep this intentionally minimal: the current repository is compact and
+# primarily consists of canonical documentation.
+SMARTDUMP_INDEX.txt
