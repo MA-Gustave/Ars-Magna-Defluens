@@ -29,5 +29,6 @@ The old snapshot's `SMARTDUMP_INDEX.txt` remains historical provenance.
 
 ## Current implementation boundary
 
-This repository currently documents a target GitOps orchestrator. The
-coordination engine has not been implemented merely by renaming this repo.
+The **local Windows coordination console and candidate workflow are implemented**
+through v0.11.2. The hosted, multi-tenant GitOps orchestrator remains a
+separate architectural target. Renaming does not implement or deploy it.

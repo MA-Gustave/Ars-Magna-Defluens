@@ -1,0 +1,25 @@
+{
+  "schema_id": "defluens.console-release",
+  "version": "0.3.0",
+  "patch_file_count": 18,
+  "files": {
+    "Ars_Magna_Defluens.pyw": "35ce3f408a46b136a4e678ab384da0d33c41cf867bc61a712d9fcabf92666306",
+    "Installer_Console_Defluens.ps1": "f1890fa0fd1c3ebc3f28232f1a56b0d06c9957640897e8973ee7b76ec3b72ebf",
+    "Lancer_Ars_Magna_Defluens.bat": "58f1f5bfd2aa97fac5072a8ad2690bed0a55293d9f0b46bc18dd33dbff5dbd73",
+    "Launch_Ars_Magna_Defluens.bat": "dd04926bd430f688a97913e456490802040977d9d476789a8bcf6142f48d6724",
+    "README.md": "351184858fe179365e33bfe0c754dfe09bdd8d6e853e195476a228d1dc1c5421",
+    "console/__init__.py": "95587f71316bc68bb1e12afbe72daa322760f33ca6e503c0fc747bcbbfdc2666",
+    "console/core.py": "69ac238c7d324dc48e165a8d5b9194b14c86e186efb21a292ee0a42ecd01691a",
+    "console/server.py": "57089f4aaf24b0855bfa9a1bb54e43d95a6afb82557209b906934014e14b8d6a",
+    "console/static/app.js": "7f003de9bc54cf70351f47bacdcc5794dcd02bb6ad4fc8b2a88c1516076c098c",
+    "console/static/assets/mecanismes-abstraits-signature.png": "d671ad17d225bbff2521b27c043865697bc2789e5c0c69bcd62ae50659d45f4a",
+    "console/static/assets/mecanismes-abstraits.png": "c79aa540ff36a5f2cea1e6901d8af9d122da091b10d09760a64e9667ac3bfdd4",
+    "console/static/assets/mecanismes-glyphe.svg": "6306c462635d7e912b1eb942d3f43d9a527f602fb977b422a42a8153ea58503d",
+    "console/static/index.html": "1c3572a174f59637ff3d99717e60dfb95f4ac3fbea9208380489c85fc463a424",
+    "console/static/style.css": "d52bbfb7b388857cb32f8bcfc0a02b2fa9d26fe5ca55ec36a90410dc52563649",
+    "console/static/tour.html": "b1796bc5aa2266f54eb514df9d12396b674f985d6b49cc22e07a3d5f3d1a08a2",
+    "docs/CHANGELOG_CONSOLE_v0.3.0.md": "abe704893cab62dd139ddc5489ceb99e6f24e5992569244ac7a2c085e6622642",
+    "docs/CONSOLE_LOCALE.md": "0ccd0b22a3ba9ee2e75cbe68fe57b52097e6b1d6a511e06981f8742e1c380ba5",
+    "tests/test_console.py": "6b09b3297da2ab2ad9f78e16eda9c0a38b98e96597d9d149fc881295b6104842"
+  }
+}

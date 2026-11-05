@@ -1,0 +1,34 @@
+SMART DUMPER INDEX
+==================
+generated_at: 2026-11-04T09:43:32.269110
+source_root: C:\mycode\Grammatical-Framework\ars-magna-defluens
+mode: snapshot
+zip_file: ars-magna-defluens_Code_snapshot.zip
+embedded_index: SMARTDUMP_INDEX.txt
+file_count: 21
+total_bytes: 285415
+compression: ZIP_DEFLATED level 1
+
+FILES
+-----
+.gitignore	513 bytes
+.smartignore	170 bytes
+Ars_Magna_Defluens.pyw	547 bytes
+console/__init__.py	155 bytes
+console/core.py	15673 bytes
+console/server.py	9609 bytes
+console/static/app.js	14989 bytes
+console/static/index.html	23330 bytes
+console/static/style.css	19384 bytes
+console/static/tour.html	127260 bytes
+console_release_manifest_v030.json	1962 bytes
+docs/ARCHITECTURE.md	2016 bytes
+docs/CHANGELOG_CONSOLE_v0.3.0.md	1892 bytes
+docs/CONSOLE_LOCALE.md	3224 bytes
+docs/NAME_MIGRATION.md	1627 bytes
+GF_Four_System_Total_Alignment.md	49497 bytes
+Installer_Console_Defluens.ps1	1475 bytes
+Lancer_Ars_Magna_Defluens.bat	1042 bytes
+Launch_Ars_Magna_Defluens.bat	55 bytes
+README.md	3763 bytes
+tests/test_console.py	7232 bytes
